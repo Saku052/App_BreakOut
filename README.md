@@ -1,6 +1,5 @@
-### ブロック崩し
+### [ブロック崩し](https://play.google.com/store/apps/details?id=com.Saku.ComboBlock)
 #### English Title : BreakOut
-https://play.google.com/store/apps/details?id=com.Saku.ComboBlock
 
 ##### ゲーム概要
 アイテムを駆使してスコアを伸ばすブロック崩し！！
