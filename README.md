@@ -6,3 +6,6 @@
 
 ##### Game Discription
 BreakOut game with items which increases your score. 
+
+
+Removed some directory since I do not own some of the assets legaly. 
